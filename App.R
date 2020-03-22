@@ -1,14 +1,3 @@
-### to do
-# fac design objet richtig anpassen
-# nach standardorder arrange und dann response zufügen
-# für versuchsplanung geht alles über tibble
-# interaction plots richtig machen, einstell bar
-# kritischen t value für pareto neu
-# anderson darling test von den residuals
-# surface plots
-# fenstergröße tab anpassen
-# dokumentatio
-# diagonale in qq plot
 
 
 # Falls es an dieser Stelle Fehlermeldungen gibt, müssen die Packages mit
